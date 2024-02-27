@@ -1,0 +1,20 @@
+{
+  "name": "f8_profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass scss:asesets/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q-frontend/f8-myprofile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/q-frontend/f8-myprofile/issues"
+  },
+  "homepage": "https://github.com/q-frontend/f8-myprofile#readme"
+}
